@@ -118,8 +118,6 @@ The project is intentionally built as a **frontend-only prototype**, emphasizing
 
 # Screenshots
 
-> Replace the placeholders below with screenshots after deployment.
-
 ## Executive Dashboard
 
 ![](docs/images/dashboard.png)
@@ -386,6 +384,6 @@ SustainAir is a **frontend demonstration prototype** developed for the **1M1B In
 
 ## If you found SustainAir interesting, consider giving this repository a star!
 
-**Built for the 1M1B Innovation Challenge using React, Vite & Tailwind CSS.**
+**Built for the 1M1B Innovation Project using React, Vite & Tailwind CSS.**
 
 </div>
